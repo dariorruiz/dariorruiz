@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dariorruiz
 
-- 🌱 I’m currently learning SuperCollider and Node Js.
 
 
 <!---
